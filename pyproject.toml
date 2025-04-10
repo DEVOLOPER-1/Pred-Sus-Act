@@ -27,6 +27,8 @@ vegafusion = "^2.0.2"
 vl-convert-python = "^1.7.0"
 pygwalker = "^0.4.9.14"
 buckaroo = "^0.9.11"
+scipy = "^1.15.2"
+scikit-learn = "^1.6.1"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
