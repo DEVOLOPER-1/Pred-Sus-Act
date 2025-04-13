@@ -30,6 +30,7 @@ buckaroo = "^0.9.11"
 scipy = "^1.15.2"
 scikit-learn = "^1.6.1"
 umap-learn = "^0.5.7"
+imblearn = "^0.0"
 
 [build-system]
 requires = ["poetry-core>=2.0.0,<3.0.0"]
