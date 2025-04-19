@@ -23,6 +23,7 @@ Key steps:
 
 ### 2. Exploratory Data Analysis (`EDA.ipynb`)
 - Loads the dataset and performs initial data exploration
+- Uses ANOVA for feature selection
 - Visualizes the distribution of features and target variable
 - Handles unbalanced classes
 - Applies dimensionality reduction techniques (PCA, t-SNE, UMAP) for visualization
@@ -48,6 +49,7 @@ Key components:
 ## Key Features
 
 ### Feature Selection
+- Uses ANOVA for feature selection
 - Uses LASSO regression for feature selection
 - Evaluates feature importance based on coefficients
 - Handles both numeric and categorical features
