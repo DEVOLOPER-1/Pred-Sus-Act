@@ -1,0 +1,1 @@
+["flow_time", "header_size", "packet_duration", "overall_rate", "src_rate", "fin_packets", "urg_packets", "rst_packets", "max_value", "value_covariance", "fin_flags", "syn_flags", "rst_flags", "psh_flags", "ack_flags", "protocol_http", "protocol_https", "protocol_tcp", "protocol_udp", "protocol_icmp"]
